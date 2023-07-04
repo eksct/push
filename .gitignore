@@ -17,7 +17,7 @@ bin/
 .idea
 /*.iml
 C++/cmake-build-debug
-/.exe
+/*.exe
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -25,6 +25,7 @@ C++/cmake-build-debug
 /nbdist/
 /.nb-gradle/
 /*.md
+!README.md
 
 ### VS Code ###
 .vscode/
